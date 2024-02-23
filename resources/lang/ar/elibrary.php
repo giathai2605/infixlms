@@ -1,0 +1,23 @@
+<?php
+return [
+"E-Library" => "مكتبة-الكتروني",
+"Ebook" => "Ebook",
+"Author Name" => "اسم المؤلف",
+"Publisher Name" => "اسم الناشر",
+"Ebook List" => "كشف Ebook",
+"Add New EBook" => "اضافة EBook جديد",
+"Update EBook" => "تعديل EBook",
+"Select Access Type" => "تحديد نوع امكانية توصل",
+"All Student" => "كل الطلاب",
+"access_type" => "مطلوب",
+"Access" => "امكانية التوصل",
+"Access Type" => "نوع امكانية التوصل",
+"Ebook Created Successfully" => "تم تكوين Ebook بنجاح",
+"Ebook Delete Successfully" => "تم حذف Ebook بنجاح",
+"Ebook Update Failed" => "فشل Ebook Update",
+"Ebook Update Successfully" => "تم تعديل Ebook بنجاح",
+"Access Type Of Student" => "نوع امكانية التوصل للطالب",
+"You are not eligible" => "أنت غير مؤهل",
+"Book View" => "مشاهدة دليل",
+"Add Ebook" => "اضافة Ebook",
+];
